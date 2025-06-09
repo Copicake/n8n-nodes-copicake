@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.1...v1.0.2) (2025-06-09)
+
+
+### Bug Fixes
+
+* try again ([96e44d5](https://github.com/Copicake/n8n-nodes-copicake/commit/96e44d5d7ce7fc8418fcd9c4dbef924d32f44662))
+
 ## [1.0.1](https://github.com/copicake/n8n-nodes-copicake/compare/v1.0.0...v1.0.1) (2025-06-09)
 
 

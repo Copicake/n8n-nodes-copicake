@@ -1,0 +1,23 @@
+{
+	"node": "n8n-nodes-base.copicake",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Miscellaneous",
+		"Productivity",
+		"Utility",
+		"Marketing & Content"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.copicake.com/"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.copicake.com/"
+			}
+		]
+	}
+}

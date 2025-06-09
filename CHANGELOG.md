@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.2...v1.0.3) (2025-06-09)
+
+
+### Bug Fixes
+
+* added public access ([2807cc2](https://github.com/Copicake/n8n-nodes-copicake/commit/2807cc2554d01fdb7817e6a78e4975fe76388289))
+
 ## [1.0.2](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.1...v1.0.2) (2025-06-09)
 
 

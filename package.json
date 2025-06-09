@@ -40,12 +40,15 @@
 		]
 	},
 	"devDependencies": {
+		"@semantic-release/changelog": "^6.0.3",
+		"@semantic-release/git": "^10.0.1",
 		"@types/node": "^22.15.30",
 		"@typescript-eslint/parser": "~8.32.0",
 		"eslint": "^8.57.0",
 		"eslint-plugin-n8n-nodes-base": "^1.16.3",
 		"gulp": "^5.0.0",
 		"prettier": "^3.5.3",
+		"semantic-release": "^24.2.5",
 		"typescript": "^5.8.2"
 	},
 	"peerDependencies": {

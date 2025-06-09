@@ -6,7 +6,6 @@ import {
 	NodeConnectionType,
 	NodeOperationError,
 } from 'n8n-workflow';
-import { setTimeout } from 'timers/promises';
 
 export class Copicake implements INodeType {
 	description: INodeTypeDescription = {
@@ -368,7 +367,7 @@ export class Copicake implements INodeType {
 								}
 
 								// Wait before next poll
-								await setTimeout(pollingInterval);
+								await new Promise((resolve) => setTimeout(resolve, pollingInterval));
 
 								// Get updated status
 								try {

@@ -6,14 +6,14 @@
 		"n8n-community-node-package"
 	],
 	"license": "MIT",
-	"homepage": "https://github.com/copicake/n8n-nodes-copicake",
+	"homepage": "https://github.com/Copicake/n8n-nodes-copicake",
 	"author": {
 		"name": "EragonJ",
 		"email": "eragonj@eragonj.me"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/copicake/n8n-nodes-copicake.git"
+		"url": "https://github.com/Copicake/n8n-nodes-copicake.git"
 	},
 	"engines": {
 		"node": ">=20.15"

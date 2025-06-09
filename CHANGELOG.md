@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.5...v1.0.6) (2025-06-09)
+
+
+### Bug Fixes
+
+* added missing test function ([b0b3d13](https://github.com/Copicake/n8n-nodes-copicake/commit/b0b3d13c49f2bdf3898cf253f6d16a3c56922714))
+
 ## [1.0.5](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.4...v1.0.5) (2025-06-09)
 
 

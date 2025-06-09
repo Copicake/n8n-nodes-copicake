@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.4...v1.0.5) (2025-06-09)
+
+
+### Bug Fixes
+
+* used another way to implement long polling ([1f6674f](https://github.com/Copicake/n8n-nodes-copicake/commit/1f6674f00ca56fec51aee7ef38ede87439b5f136))
+
 ## [1.0.4](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.3...v1.0.4) (2025-06-09)
 
 

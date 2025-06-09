@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.3...v1.0.4) (2025-06-09)
+
+
+### Bug Fixes
+
+* removed timer import ([109e698](https://github.com/Copicake/n8n-nodes-copicake/commit/109e6986bb7bc279fed195f6a72adea35b7ea8da))
+
 ## [1.0.3](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.2...v1.0.3) (2025-06-09)
 
 

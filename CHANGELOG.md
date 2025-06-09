@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/copicake/n8n-nodes-copicake/compare/v1.0.0...v1.0.1) (2025-06-09)
+
+
+### Bug Fixes
+
+* updated release.yml and updated secrets from panel ([21b0ed5](https://github.com/copicake/n8n-nodes-copicake/commit/21b0ed5eb6c0f2c4438ed64d7ac57d449dbb166f))
+
 # 1.0.0 (2025-06-09)
 
 

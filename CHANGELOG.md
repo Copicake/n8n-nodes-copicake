@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.6...v1.1.0) (2025-06-30)
+
+
+### Features
+
+* added usableAsTool prop ([f8a8bfc](https://github.com/Copicake/n8n-nodes-copicake/commit/f8a8bfcd321a7317e2f9154e8168d8cd4c800f16))
+
 ## [1.0.6](https://github.com/Copicake/n8n-nodes-copicake/compare/v1.0.5...v1.0.6) (2025-06-09)
 
 
